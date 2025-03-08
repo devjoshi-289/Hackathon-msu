@@ -40,6 +40,10 @@ npm run deploy
 Your app will be live at:
 https://devjoshi-289.github.io/Hackathon-msu/
 
+For direct online output:
+  Remote Deployed link :
+    https://effortless-kelpie-d7d7b2.netlify.app
+
 📜 License
 
 This project is open-source.
